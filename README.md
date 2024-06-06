@@ -16,3 +16,23 @@ I had lots of resources to look into to help me find something that would be mos
 What are some ideas for improvement in your process?
 
 I just need to allocate more time in the week to this project at the moment.
+
+
+
+## Week 3 Update - Emily White
+### Web Development Proposal
+What did I do last week?
+
+Last week set up my personal website, although it looks very plain at the moment. I chose a Udemy course to on web development to follow for the semester and finalized my project proposal.
+
+What do you plan to do this week?
+
+I will complete the intro and start the HTML portion of the course. My website needs a theme and purpose and that will allow me to create the HTML files for each page.
+
+Are there any impediments in your way?
+
+I may need adjust my coding environment and that may set me back in working on the website.
+
+Reflection on the process you used last week, how can you make the process work better?
+
+This week I spread out my time allocated for this course throughout the week, so I had a chance to walk away and come back with a clearer mind which increased my productivity. This week my workflow will shift into my project from setup, so there will be much more focused work over brainstorming. This means my work will probably be grouped into fewer larger windows of time.
