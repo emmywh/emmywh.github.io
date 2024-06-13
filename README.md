@@ -36,3 +36,19 @@ I may need adjust my coding environment and that may set me back in working on t
 Reflection on the process you used last week, how can you make the process work better?
 
 This week I spread out my time allocated for this course throughout the week, so I had a chance to walk away and come back with a clearer mind which increased my productivity. This week my workflow will shift into my project from setup, so there will be much more focused work over brainstorming. This means my work will probably be grouped into fewer larger windows of time.
+
+
+
+## Week 4 Update - Emily White
+### Setting up and Getting Started
+What did I do last week?
+I set up my IDE and starting working the the web development course, beginning with HTML.
+
+What is planned for next week?
+I will continue working on the course, come up with a theme for the website I will develop and personalize my website.
+
+What went well in the process/plan for the week?
+I am having trouble balancing this course with professional obligations and my other course.
+
+What are some ideas for improvement in your process?
+Blocking out time at the beginning if the week will allow me to make progress in this course before other obligations.
