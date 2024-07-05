@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging
----
-
 
 
 # Project Updates
