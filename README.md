@@ -1,3 +1,10 @@
+---
+layout: post
+title: Blogging
+---
+
+
+
 # Project Updates
 ## Week 2 Update - Emily White
 ### Drafting Ideas
