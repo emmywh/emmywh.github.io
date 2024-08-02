@@ -86,3 +86,29 @@ My main roadblock is just getting started on the website, but once I get going i
 Week 7! I did not get much done this week because of my move, but this week I will continue the JS portion of the course. It is the biggest and most detailed section of the course, so it will take me a while.
 
 This project has been very unproblematic so far so no roadblocks at this time.
+
+
+
+## Week 8 Update - Emily White
+### Let me out of JS World
+This week I working on the JS portion of my course some more. I believe I am about 80% through. The next sections are much smaller in comparison. In the following week, I would like to push further through the course and potentially start the website since I have thought more about how I want to organize it. 
+
+Nothing is blocking me at this time. The course is a lot to get through and at some point I will start to forget what I learned at the beginning, so starting the website now would be good, so I can utilize what I learned earlier before it gets buried. Although it is bulky I am really enjoying the JS React portion of this course and am excited to use my knowledge in future projects.
+
+
+
+## Week 9 Update - Emily White
+### Perfectionism
+Whew! Week 9 came with a bit of restructuring for me. I continued watching course materials, but I realize I would rather learn more things from the course than make a "perfect" website. Making a website I am happy with in a limited time frame is a bit more pressure than I would like to have on myself. To solve this problem I am going to adjust my goal to create a bare bones "skeleton" website that I can build on after the course as I apply to internships. This course will help me accomplish the hard part, which is starting. Then, I can more features in the future. I have my data and website design completed, all I have to do is start!
+
+
+
+## Week 10 Update - Emily White
+### Is Hosting a Website Complicated?
+Last week was more coursework and more coursework. Yesterday I learned how to host my website on Github. This week will be setting up my website and potentially getting some static pages up. My main blocker for this project is running into problems that I have no background in a have no idea how to fix, mainly for working in IDEs. Tediously figuring things out has been the main time sink for this project. Therefore, I hope setting up this website is fairly straight forward.
+
+
+
+## Week 11 Update - Emily White
+### Creative Static
+Last week I wasn't as productive as I would've hoped. I wanted to upload my html files to github but I decided to reconfigure them over the weekend and do not have them ready to go again yet. Unsurprisingly I continued to watch morfe content from the course. I have already completed the core lessons of each module in the course, but the more in depth videos are really interesting. This week I will upload my html files to github, hopefully with some CSS. I am feeling the strain of the end of the semester, so I am keeping my expectations low for myself. I am simply being finicky with my website. I wish I had more time to create something that focused more on my interests, but my focused interest on that would take me out fo the time confines of the course. The thing holding me up is being uninspired and picky, which is something I will take over technical difficulties.
