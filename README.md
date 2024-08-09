@@ -112,3 +112,8 @@ Last week was more coursework and more coursework. Yesterday I learned how to ho
 ## Week 11 Update - Emily White
 ### Creative Static
 Last week I wasn't as productive as I would've hoped. I wanted to upload my html files to github but I decided to reconfigure them over the weekend and do not have them ready to go again yet. Unsurprisingly I continued to watch morfe content from the course. I have already completed the core lessons of each module in the course, but the more in depth videos are really interesting. This week I will upload my html files to github, hopefully with some CSS. I am feeling the strain of the end of the semester, so I am keeping my expectations low for myself. I am simply being finicky with my website. I wish I had more time to create something that focused more on my interests, but my focused interest on that would take me out fo the time confines of the course. The thing holding me up is being uninspired and picky, which is something I will take over technical difficulties.
+
+
+## Week 12 Update - Emily White
+### Finals are here!
+Finals are here! Last week I spent some time rounding out my course lessons. There is still 20 hours left, but I was able to get the most important information about it. Unfortunately, I did not get to work on my website anymore due to some other coursework. This week I will right up my final project report. I will discuss my future plans and how I completed my criteria for this project. I have no more roadblocks. This project was really rewarding and achievable. I hope to do more Udemy courses in the future.
